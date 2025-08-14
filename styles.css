@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+
+footer {
+    background-color: grey;
+}
+
+.white {
+    background-color: white;
+}
+
+img {
+    width: 20%;
+    height: 20%
+}
